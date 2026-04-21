@@ -50,7 +50,7 @@ amount, while learners from Saudi Arabia have moderate spending.
 
 ## 💡Recommendations:
 
-Recommend AI course bundles for learners who purchased multiple AI courses.
+RecommenيثAI course bundles for learners who purchased multiple AI courses.
 
 Target multi-category learners with new Data Science or Cybersecurity courses.
 
