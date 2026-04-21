@@ -6,7 +6,6 @@ This project focuses on analyzing the purchasing behavior of learners in an onli
 learning platform. The dataset includes three tables: learners, courses, and purchases, which
 capture information on learner demographics, course offerings, and purchase transactions. 
 
-## ×لاتثؤفهرث:
 • Understand overall learner spending and purchase trends.
 
 • Identify popular courses and categories.
