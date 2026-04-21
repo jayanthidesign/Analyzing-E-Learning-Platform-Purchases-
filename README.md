@@ -1,12 +1,12 @@
 # Analyzing E-Learning Platform Purchases
 
-# Project Overview:
+## 📌 Overview:
 
 This project focuses on analyzing the purchasing behavior of learners in an online
 learning platform. The dataset includes three tables: learners, courses, and purchases, which
-capture information on learner demographics, course offerings, and purchase transactions. The
-main objectives of this report are to:
+capture information on learner demographics, course offerings, and purchase transactions. 
 
+## ×لاتثؤفهرث:
 • Understand overall learner spending and purchase trends.
 
 • Identify popular courses and categories.
@@ -15,27 +15,27 @@ main objectives of this report are to:
 
 • Highlight unpurchased courses and revenue contributions per category.
 
-# Tools & Technologies:
+## 🎯Tools & Technologies:
 
 Database: SQL (MySQL)
     
-# Data Cleaning & Preparation:
+## 🛠️ Data Cleaning & Preparation:
 
-Handled missing values and duplicates.
+- Handled missing values and duplicates.
 
-Formatted currency values to two decimal places.
+- Formatted currency values to two decimal places.
 
-Renamed course_name to course_title.
+- Renamed course_name to course_title.
 
- # Exploratory Data Analysis (EDA):
+ ## 🗄️Exploratory Data Analysis (EDA):
 
- Yuki Tanaka spent the most.
+- Yuki Tanaka spent the most.
  
-AI and Machine Learning category generated the highest revenue.
+- AI and Machine Learning category generated the highest revenue.
 
-Learners from Japan had the highest average purchase amount.
+- Learners from Japan had the highest average purchase amount.
 
-# Key insights:
+## 📈 Key insights:
 
 • High average spending in Japan suggests targeting premium courses or bundles in that
 market.
@@ -49,7 +49,7 @@ revenue, suggesting niche engagement.
 • Country-level analysis shows that learners from Japan have the highest average purchase
 amount, while learners from Saudi Arabia have moderate spending.
 
-# Recommendations:
+## 💡Recommendations:
 
 Recommend AI course bundles for learners who purchased multiple AI courses.
 
